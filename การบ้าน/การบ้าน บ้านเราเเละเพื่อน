@@ -1,0 +1,28 @@
+const perSoNalInForMation  = {
+    fullName: 'Nattakn Janjaronsub',
+    adDress : '100/99' ,
+    sWine : '3',
+    road : 'banana',
+    disTrict : 'bananu',
+    canTon : 'cities',
+    ciTy : 'liion',
+    zipCode :'904144',
+    eMail :'Nattakankung@gmail.com',
+    friend : {
+        firstName : 'Yoru Isuki',
+        lastNmae : 'Yoyan',
+        age : '20',
+        animal : {
+            animalType : 'cat',
+            color: 'Backninht',
+        }
+    },
+    myBro: {
+        firestName : 'Hiroshi Osuke',
+        lastName : 'sukekung',
+        AKA : 'Porn',
+    }
+}
+
+
+console.log(perSoNalInForMation.myBro.AKA)
